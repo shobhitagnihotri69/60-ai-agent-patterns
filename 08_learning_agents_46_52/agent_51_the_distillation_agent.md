@@ -139,3 +139,5 @@ A content-moderation agent at a social platform initially deployed a frontier mo
 Distillation runs are quarterly, with sampling at 3% of production traffic and a quality floor of teacher-confidence 0.97. Roughly 60% of captured samples pass the filter into training. The savings (approximately $1.4M per year at the platform's volume) is the entirety of the distillation team's funding.
 
 **Pairs with:** Curriculum Designer (Agent 49), Drift Detector (Agent 59), Self-Consistency Voter (Agent 15).
+
+# study-note: verified and refactored
