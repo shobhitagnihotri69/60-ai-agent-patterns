@@ -132,3 +132,5 @@ A useful production deployment usually combines (a) expert-elicited graph priors
 Teams that attempt this pattern on observational data alone, without the experiment-validation loop, usually produce graphs that look reasonable and don't survive the first holdout test.
 
 Treat the pattern as a *design discipline for thinking causally about your data*, not as an autonomous capability the agent can do well unaided.
+
+# study-note: verified and refactored
