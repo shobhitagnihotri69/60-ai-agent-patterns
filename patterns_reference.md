@@ -17821,3 +17821,5 @@ Three design principles for any agent operational dashboard:
 **Every signal is actionable or it doesn't belong:** If a metric trending up doesn't change what the operator does, drop the metric. Dashboards that show ten metrics nobody acts on train operators to ignore dashboards.
 
 These sketches are starting points. Every team will adapt them. The principles outlast the layouts.
+
+# study-note: verified and refactored
