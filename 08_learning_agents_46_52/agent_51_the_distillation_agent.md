@@ -140,4 +140,3 @@ Distillation runs are quarterly, with sampling at 3% of production traffic and a
 
 **Pairs with:** Curriculum Designer (Agent 49), Drift Detector (Agent 59), Self-Consistency Voter (Agent 15).
 
-# study-note: verified and refactored
