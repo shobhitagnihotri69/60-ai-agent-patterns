@@ -17822,4 +17822,3 @@ Three design principles for any agent operational dashboard:
 
 These sketches are starting points. Every team will adapt them. The principles outlast the layouts.
 
-# study-note: verified and refactored
