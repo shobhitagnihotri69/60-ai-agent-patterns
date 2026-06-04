@@ -134,3 +134,5 @@ Teams that attempt this pattern on observational data alone, without the experim
 Treat the pattern as a *design discipline for thinking causally about your data*, not as an autonomous capability the agent can do well unaided.
 
 
+
+# study-note: verified and refactored
