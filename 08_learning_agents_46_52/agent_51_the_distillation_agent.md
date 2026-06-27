@@ -142,4 +142,3 @@ Distillation runs are quarterly, with sampling at 3% of production traffic and a
 
 
 
-# study-note: verified and refactored
