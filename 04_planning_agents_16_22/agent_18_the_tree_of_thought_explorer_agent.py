@@ -106,4 +106,3 @@ class TreeOfThoughtExplorerAgent:
 
 
 
-# study-note: verified and refactored
