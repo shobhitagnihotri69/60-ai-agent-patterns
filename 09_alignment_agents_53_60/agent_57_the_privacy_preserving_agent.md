@@ -141,4 +141,3 @@ The pattern was a precondition for HIPAA compliance certification. Quality on th
 
 
 
-# study-note: verified and refactored
