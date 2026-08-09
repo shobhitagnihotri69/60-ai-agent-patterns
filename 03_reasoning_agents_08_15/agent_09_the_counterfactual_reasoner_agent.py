@@ -80,4 +80,3 @@ class CounterfactualReasonerAgent:
 
 
 
-# study-note: verified and refactored
