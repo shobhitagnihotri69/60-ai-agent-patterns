@@ -135,4 +135,3 @@ Treat the pattern as a *design discipline for thinking causally about your data*
 
 
 
-# study-note: verified and refactored
