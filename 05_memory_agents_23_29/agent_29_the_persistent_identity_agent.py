@@ -111,4 +111,3 @@ class PersistentIdentityAgent:
 
 
 
-# study-note: verified and refactored
