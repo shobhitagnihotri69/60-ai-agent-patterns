@@ -17824,4 +17824,3 @@ These sketches are starting points. Every team will adapt them. The principles o
 
 
 
-# study-note: verified and refactored
